@@ -1,0 +1,4 @@
+﻿  OMPMinimal.cpp
+B:\3.1 Parralel\GridMinimal\OMPMinimal\OMPMinimal\OMPMinimal\OMPMinimal.cpp(32,18): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+B:\3.1 Parralel\GridMinimal\OMPMinimal\OMPMinimal\OMPMinimal\OMPMinimal.cpp(72,27): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  OMPMinimal.vcxproj -> B:\3.1 Parralel\GridMinimal\OMPMinimal\OMPMinimal\Debug\OMPMinimal.exe
